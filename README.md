@@ -1,1 +1,1 @@
-# praktikum-pbo
+# praktikum-SO
